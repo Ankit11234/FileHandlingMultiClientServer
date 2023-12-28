@@ -1,0 +1,7 @@
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.exe.config
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.exe
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\bin\Debug\MultiClientTcpClient.pdb
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.csproj.AssemblyReference.cache
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.csproj.CoreCompileInputs.cache
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.exe
+D:\INTERNSHIP\SendFileFromClientToServer\MultiClientTcpClient\obj\Debug\MultiClientTcpClient.pdb
